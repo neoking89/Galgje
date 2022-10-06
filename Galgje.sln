@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galgje", "Galgje.csproj", "{CA779B7A-0798-4B6E-AB04-BD751CA15031}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hangman.Unittests", "..\Hangman.Unittests\Hangman.Unittests.csproj", "{DE943F25-6610-46A7-A91F-7A4060BEA270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA779B7A-0798-4B6E-AB04-BD751CA15031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA779B7A-0798-4B6E-AB04-BD751CA15031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA779B7A-0798-4B6E-AB04-BD751CA15031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA779B7A-0798-4B6E-AB04-BD751CA15031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE943F25-6610-46A7-A91F-7A4060BEA270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE943F25-6610-46A7-A91F-7A4060BEA270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE943F25-6610-46A7-A91F-7A4060BEA270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE943F25-6610-46A7-A91F-7A4060BEA270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F30D9196-F386-4A89-966A-98A52694C0ED}
+	EndGlobalSection
+EndGlobal
